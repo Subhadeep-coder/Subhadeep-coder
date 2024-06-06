@@ -1,8 +1,8 @@
-![](https://komarev.com/ghpvc/?username=swvstik&color=green)
+![](https://komarev.com/ghpvc/?username=Subhadeep-coder&color=green)
 
 ## Greetings!
 
-<h3 style="font-size:110%;">Hello! I'm <i>@swvstik</i> - and welcome to my profile! <img src="https://media0.giphy.com/media/26DN81TqLPIzBlksw/giphy.gif" width="25"></h3>
+<h3 style="font-size:110%;">Hello! I'm <i>@Subhadeep-coder</i> - and welcome to my profile! <img src="https://media0.giphy.com/media/26DN81TqLPIzBlksw/giphy.gif" width="25"></h3>
 
 ---
 
@@ -12,7 +12,7 @@
 
 I'm a second year student pursuing CS.
 
-I'm currently trying to explore more into **Game Development**.
+I'm currently trying to explore more into **Web and App Development**.
 
 My hobbies include music, art, coding and gaming.
 
@@ -21,25 +21,40 @@ My hobbies include music, art, coding and gaming.
 ### Connect with Me:
 </br>
 
-<p align='left'><a href="https://in.linkedin.com/in/swastik-bhattacharya-87a30b256"><img src="https://www.freeiconspng.com/uploads/images-linkedin-logo-png-14.png" width="60"></a></p>
+<p align='left'><a href="https://www.linkedin.com/in/subhadeep-dhar-12310a256/"><img src="https://www.freeiconspng.com/uploads/images-linkedin-logo-png-14.png" width="60"></a></p>
 
 ---
 
 ### Development Skills: 
-[![My Programming Languages](https://skillicons.dev/icons?i=c,cpp,cs,python,js,css)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,java,js)](https://skillicons.dev)
 
 ---
 
-### Other Skills:
-[![My IDEs and Tools](https://skillicons.dev/icons?i=ps,pr,blender,ae,unity)](https://skillicons.dev)
+### Frontend Skills:
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,reactjs)](https://skillicons.dev)
+
+---
+
+### Backend Skills:
+[![Backend](https://skillicons.dev/icons?i=nodejs,firebase,supabase)](https://skillicons.dev)
+
+---
+
+### Database:
+[![Database](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+
+---
+
+### IDE:
+[![IDEs and Tools](https://skillicons.dev/icons?i=vscode,postman)](https://skillicons.dev)
 
 ---
 
 ### GitHub Stats:
 </br>
 
-![swvstik's stats](https://github-readme-stats.vercel.app/api?username=swvstik&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swvstik)
+![Subhadeep's stats](https://github-readme-stats.vercel.app/api?username=Subhadeep-coder&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep-coder)
 
 ---
 </br></br>
