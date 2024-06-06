@@ -64,12 +64,12 @@ My hobbies include music, art, coding and gaming.
 # <h3 align="center">🏅 My GitHub Stats 🏅</h3>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibs07&layout=compact&theme=dark#gh-dark-mode-only">
-<img src="https://github-readme-stats.vercel.app/api?username=Dibs07&show_icons=true&include_all_commits=true&theme=dark">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dibs07&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep-coder&layout=compact&theme=dark#gh-dark-mode-only">
+<img src="https://github-readme-stats.vercel.app/api?username=Subhadeep-coder&show_icons=true&include_all_commits=true&theme=dark">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhadeep-coder&theme=dark">
 </div>
 
 <div align="center">
 <h3 align="center">🏆 My Github Trophies 🏆</h3>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Dibs07&theme=onedark">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Subhadeep-coder&theme=onedark">
 </div>
